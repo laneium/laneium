@@ -1,4 +1,4 @@
-### hi, i'm bailey!
+# hi, i'm bailey!
 
 ## about me
 - 18
