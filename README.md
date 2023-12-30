@@ -1,5 +1,17 @@
-### Hi there 👋
+### hi, i'm bailey!
 
+## about me
+- 18
+- learning minecraft modding
+- frontend web developer
+- content creator :D
+
+## certs & achievements
+- comptia a+ certified
+- adobe premiere pro, photoshop, illustrator, and indesign certifications
+- visual and video design (from adobe) certifications
+- microsoft html/css certifications
+- microsoft office certifications
 <!--
 **laneium/laneium** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
