@@ -1,5 +1,5 @@
 # hi, im bailey!
-<br>    18<br>    learning minecraft modding<br>    frontend web developer<br>    content creator :D<br><br>certs & achievements<br><br>    comptia a+ certified<br>    adobe premiere pro, photoshop, illustrator, and indesign certifications<br>    visual and video design (from adobe) certifications<br>    microsoft html/css certifications<br>    microsoft office certifications<br>
+<br>    18<br>    learning minecraft modding<br>    frontend web developer<br>    content creator :D
 
 
 ## 🌐 Socials:
