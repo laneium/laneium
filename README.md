@@ -1,5 +1,5 @@
 # hi, im bailey!
-<br>    18<br>    learning minecraft modding<br>    frontend web developer<br>    content creator :D
+18<br>    learning minecraft modding<br>    frontend web developer<br>    content creator :D
 
 
 ## 🌐 Socials:
